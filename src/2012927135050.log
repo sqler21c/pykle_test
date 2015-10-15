@@ -1,0 +1,32 @@
+2012927135055   GetSRVConnState ----- Start 
+2012927135055   ==================================================
+2012927135055   Server State : idle
+2012927135055   Description : Ready to connect
+2012927135055   +++++++++++++++++++++++++++++++++++++++++
+2012927135055   Network Serving Nmae : Roaming
+2012927135055   Network Serving Type : 1XRTT
+2012927135055   Network Serving ID : 139
+2012927135055   Network Serving Server : server.pantech.com
+2012927135055   Netwrok Serving Server Type : Roam Agent
+2012927135055   Network Serving Encryption : CDMA
+2012927135055   +++++++++++++++++++++++++++++++++++++++++
+2012927135055   Network Serving Roam Type : None
+2012927135055   Network Serving Roam Indicator : None
+2012927135055   Network Serving Roam Indicator Description : None
+2012927135055   Network Serving Roam Indicator Description : None
+2012927135055   Network Serving Home Type : LTE
+2012927135055   Network Serving Home ID : 311480
+2012927135055   +++++++++++++++++++++++++++++++++++++++++
+2012927135055   Network Actions : connect;poweroff
+2012927135055   +++++++++++++++++++++++++++++++++++++++++
+2012927135055   Network Connection IP4 IP : 0.0.0.0
+2012927135055   Network Connection IP4 Subnet : 0.0.0.0
+2012927135055   Network connection IP4 Gateway : 0.0.0.0
+2012927135055   Network Connection IP4 DNS : 0.0.0.0
+2012927135055   +++++++++++++++++++++++++++++++++++++++++
+2012927135055   Network Connection IP6 IP : 0:0:0:0:0:0:0:0
+2012927135055   Network Connection IP6 Subnet : None
+2012927135055   Network connection IP6 Gateway : None
+2012927135055   Network Connection IP6 DNS : 0:0:0:0:0:0:0:0
+2012927135055   ==================================================
+2012927135055   GetSRVConnState ----- END 
